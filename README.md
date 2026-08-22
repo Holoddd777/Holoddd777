@@ -1,6 +1,6 @@
 # Евгений Быков — Fullstack-разработчик и AI-автоматизация
 
-> Помогаю бизнесу не терять клиентов и зарабатывать больше через AI-автоматизацию и веб-разработку. 5+ лет опыта, 20+ проектов, 6 живых доменов.
+> Помогаю бизнесу не терять клиентов и зарабатывать больше через AI-автоматизацию и веб-разработку. 5+ лет опыта, 20+ проектов, живые домены как доказательство.
 
 ## Технологии
 
@@ -27,11 +27,9 @@
 
 | Домен | Описание | Стек |
 |-------|----------|------|
-| [max-tender.ru](https://max-tender.ru) | SaaS-платформа мониторинга госзакупок с AI-анализом | PHP, Python, Docker, OpenAI |
+| [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани под ключ. Формы заявок, интеграция с Битрикс24, Яндекс.Метрика | HTML, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Лицензированная образовательная академия — курсы, оплата, отзывы, дипломы гос. образца. 852+ студента онлайн | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Лендинг тендерного сервиса | HTML, CSS, JS |
-| [admireu.ru](https://admireu.ru) | Корпоративный сайт с рекламой в Яндекс.Директ | WordPress, Яндекс.Директ |
-| [askfarma.ru](https://askfarma.ru) | Сайт фармацевтической компании | Next.js, статичный экспорт |
-| [geshtalt70.ru](https://geshtalt70.ru) | Сайт конференции/мероприятия с галереей | WordPress, кастомный JS |
 | [devsolo.ru](https://devsolo.ru) | Лендинг фриланс-услуг | HTML, CSS, JS |
 
 ## Что я делаю
@@ -69,7 +67,7 @@
 
 # Evgeny Bykov — Full-Stack Developer & AI Automation Engineer
 
-> I help businesses stop losing leads and increase revenue through AI automation and web development. 5+ years of experience, 20+ projects, 6 live domains.
+> I help businesses stop losing leads and increase revenue through AI automation and web development. 5+ years of experience, 20+ projects, live domains as proof of work.
 
 ## Tech Stack
 
@@ -96,11 +94,9 @@
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| [max-tender.ru](https://max-tender.ru) | SaaS platform for government procurement monitoring with AI analysis | PHP, Python, Docker, OpenAI |
+| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — houses and saunas. Lead forms, Bitrix24 integration, Yandex.Metrika | HTML, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Licensed education academy — courses, payments, reviews, state diplomas. 852+ students online | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Landing page for tender service | HTML, CSS, JS |
-| [admireu.ru](https://admireu.ru) | Corporate website with Yandex.Direct ad campaigns | WordPress, Yandex.Direct |
-| [askfarma.ru](https://askfarma.ru) | Pharmaceutical company website | Next.js, static export |
-| [geshtalt70.ru](https://geshtalt70.ru) | Conference/event website with gallery | WordPress, custom JS |
 | [devsolo.ru](https://devsolo.ru) | Freelance services landing page | HTML, CSS, JS |
 
 ## What I Do
