@@ -53,7 +53,7 @@ I speak business, not just features. End-to-end delivery: requirements to deploy
 
 ## Contact
 
-- Telegram: [@n3tsec1](https://t.me/n3tsec1)
+- Telegram: [@codediver_ai](https://t.me/codediver_ai)
 - Email: evgenyholodd@gmail.com
 - FL.ru: [evgenyholodd](https://www.fl.ru/users/evgenyholodd/)
 - LaborX: [Evgeny Bykov](https://laborx.com/freelancers/users/id462793)
