@@ -1,129 +1,97 @@
-# Евгений Быков — Fullstack-разработчик и AI-автоматизация
+# РќРѕРІС‹Р№ README РґР»СЏ GitHub РїСЂРѕС„РёР»СЏ Holoddd777/Holoddd777
+# РЈР±СЂР°РЅС‹: devsolo.ru, max-tender.ru
+# РђРєС‚СѓР°Р»СЊРЅС‹Рµ: prorabstroy.ru, skillup1.ru, tnder.ru
 
-> Помогаю бизнесу не терять клиентов и зарабатывать больше через AI-автоматизацию и веб-разработку. 5+ лет опыта, 20+ проектов, живые домены как доказательство.
+# Р•РІРіРµРЅРёР№ Р‘С‹РєРѕРІ вЂ” Fullstack-СЂР°Р·СЂР°Р±РѕС‚С‡РёРє Рё AI-Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ
 
-## Технологии
+РџРѕРјРѕРіР°СЋ Р±РёР·РЅРµСЃСѓ РЅРµ С‚РµСЂСЏС‚СЊ РєР»РёРµРЅС‚РѕРІ Рё Р·Р°СЂР°Р±Р°С‚С‹РІР°С‚СЊ Р±РѕР»СЊС€Рµ С‡РµСЂРµР· AI-Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЋ Рё РІРµР±-СЂР°Р·СЂР°Р±РѕС‚РєСѓ. 5+ Р»РµС‚ РѕРїС‹С‚Р°, 20+ РїСЂРѕРµРєС‚РѕРІ, Р¶РёРІС‹Рµ РґРѕРјРµРЅС‹ РєР°Рє РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІРѕ.
 
-**Фронтенд:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI  
-**Бэкенд:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP  
-**Базы данных:** PostgreSQL, MongoDB, Redis, SQLite  
-**DevOps:** Docker, CI/CD, GitHub Actions, Nginx  
-**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API  
-**Интеграции:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24, Яндекс.Директ  
+## РўРµС…РЅРѕР»РѕРіРёРё
 
-## Избранные проекты
+**Р¤СЂРѕРЅС‚РµРЅРґ:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI
+**Р‘СЌРєРµРЅРґ:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP
+**Р‘Р°Р·С‹ РґР°РЅРЅС‹С…:** PostgreSQL, MongoDB, Redis, SQLite
+**DevOps:** Docker, CI/CD, GitHub Actions, Nginx
+**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API
+**РРЅС‚РµРіСЂР°С†РёРё:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24, РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚
 
-### Веб-приложения
-- [Сайт строительной компании](https://github.com/Holoddd777/construction-company-website) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
-- [Криптообменник](https://github.com/Holoddd777/crypto-exchange-platform) — Node.js, TypeScript, Express, SQLite. Управление ордерами, отслеживание статусов
+## РР·Р±СЂР°РЅРЅС‹Рµ РїСЂРѕРµРєС‚С‹
 
-### Telegram-боты
-- [Бот управления сменами охраны](https://github.com/Holoddd777/bot-oxpana-shift-management) — aiogram 3.x, SQLAlchemy, ролевая модель (сотрудник, старший смены, админ). Публикация смен, запись, отчёты, рейтинги
+### Р’РµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ
 
-### Инструменты
-- [SEO-анализатор](https://github.com/Holoddd777/seo-analysis-tool) — Python, Flask, SQLAlchemy, BeautifulSoup. Анализ on-page SEO-факторов
+- **РЎР°Р№С‚ СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕР№ РєРѕРјРїР°РЅРёРё РЎРљ В«РџСЂРѕСЂР°Р±В»** (prorabstroy.ru) вЂ” Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
+- **РћР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР° SKILL UP** (skillup1.ru) вЂ” React, Vite, Tailwind CSS. Р›РёС†РµРЅР·РёСЂРѕРІР°РЅРЅС‹Рµ РєСѓСЂСЃС‹, 852+ СЃС‚СѓРґРµРЅС‚Р°
+- **РџР»Р°С‚С„РѕСЂРјР° С‚РµРЅРґРµСЂРЅРѕРіРѕ СЃРѕРїСЂРѕРІРѕР¶РґРµРЅРёСЏ** (tnder.ru) вЂ” HTML/SCSS/JS/PHP, ML-СЂРµРєРѕРјРµРЅРґР°С†РёРё
 
-## Живые проекты (доказательства работ)
+### Telegram-Р±РѕС‚С‹
 
-| Домен | Описание | Стек |
+- **Telegram e-commerce Р±РѕС‚** вЂ” aiogram 3.x, РєР°С‚Р°Р»РѕРі, Р·Р°РєР°Р·С‹, BTC/LTC РѕРїР»Р°С‚Р°, 180 С‚РµСЃС‚РѕРІ, ~15K СЃС‚СЂРѕРє
+- **Telegram-РїР°СЂСЃРµСЂ** вЂ” Telethon, РїР°СЂСЃРёРЅРі РіСЂСѓРїРї СЃ С€РёС„СЂРѕРІР°РЅРёРµРј Рё rate limiting, ~12K СЃС‚СЂРѕРє
+- **Telegram РёРЅРІР°Р№С‚РµСЂ** вЂ” aiogram/Telethon, РјР°СЃСЃРѕРІС‹Р№ РёРЅРІР°Р№С‚РёРЅРі СЃ РїСЂРѕРєСЃРё-РїСѓР»РѕРј Рё РїСЂРѕРіСЂРµРІРѕРј, 30 Р°РЅС‚РёС„СЂРѕРґ-РѕР±С…РѕРґРѕРІ
+- **Р‘РѕС‚-РЅСѓС‚СЂРёС†РёРѕР»РѕРі** вЂ” python-telegram-bot, РѕС‚С‡С‘С‚С‹ РїР°С†РёРµРЅС‚РѕРІ РІ Google Sheets
+
+## Р–РёРІС‹Рµ РїСЂРѕРµРєС‚С‹ (РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІР° СЂР°Р±РѕС‚)
+
+| Р”РѕРјРµРЅ | РћРїРёСЃР°РЅРёРµ | РЎС‚РµРє |
 |-------|----------|------|
-| [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани под ключ. Формы заявок, интеграция с Битрикс24, Яндекс.Метрика | HTML, Tailwind CSS, Bitrix24 webhook |
-| [skillup1.ru](https://skillup1.ru) | Лицензированная образовательная академия — курсы, оплата, отзывы, дипломы гос. образца. 852+ студента онлайн | React, Vite, Tailwind CSS |
-| [tnder.ru](https://tnder.ru) | Лендинг тендерного сервиса | HTML, CSS, JS |
-| [devsolo.ru](https://devsolo.ru) | Лендинг фриланс-услуг | HTML, CSS, JS |
+| [prorabstroy.ru](https://prorabstroy.ru) | РЎР°Р№С‚ СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕР№ РєРѕРјРїР°РЅРёРё РЎРљ В«РџСЂРѕСЂР°Р±В» вЂ” РґРѕРјР° Рё Р±Р°РЅРё РїРѕРґ РєР»СЋС‡. Р¤РѕСЂРјС‹ Р·Р°СЏРІРѕРє, РёРЅС‚РµРіСЂР°С†РёСЏ СЃ Р‘РёС‚СЂРёРєСЃ24, РЇРЅРґРµРєСЃ.РњРµС‚СЂРёРєР° | HTML, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Р›РёС†РµРЅР·РёСЂРѕРІР°РЅРЅР°СЏ РѕР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ Р°РєР°РґРµРјРёСЏ вЂ” РєСѓСЂСЃС‹, РѕРїР»Р°С‚Р°, РѕС‚Р·С‹РІС‹, РґРёРїР»РѕРјС‹ РіРѕСЃ. РѕР±СЂР°Р·С†Р°. 852+ СЃС‚СѓРґРµРЅС‚Р° РѕРЅР»Р°Р№РЅ | React, Vite, Tailwind CSS |
+| [tnder.ru](https://tnder.ru) | РџР»Р°С‚С„РѕСЂРјР° С‚РµРЅРґРµСЂРЅРѕРіРѕ СЃРѕРїСЂРѕРІРѕР¶РґРµРЅРёСЏ СЃ ML-СЂРµРєРѕРјРµРЅРґР°С†РёСЏРјРё | HTML, SCSS, JS, PHP |
 
-## Что я делаю
+## Р§С‚Рѕ СЏ РґРµР»Р°СЋ
 
-- **AI-агенты для квалификации лидов** — 24/7 в Telegram/WhatsApp: оценка HOT/WARM/COLD, синхронизация с CRM, мгновенные уведомления менеджерам. Время ответа: с 2-3 часов до 2 минут. Конверсия +35%.
-- **Telegram-боты** — Заявки, запись, поддержка, оплаты, интеграция с CRM/Google Sheets, AI-автоответы, e-commerce
-- **Веб-приложения** — Лендинги, личные кабинеты, админки, CRM, интернет-магазины. Frontend + backend + БД + деплой
-- **API разработка** — Интеграции Google Sheets, AmoCRM, Bitrix24, OpenAI/Claude
-- **SEO и маркетинг** — Яндекс.Директ (50+ кампаний), подбор ключевых слов, оптимизация лендингов
+- **AI-Р°РіРµРЅС‚С‹ РґР»СЏ РєРІР°Р»РёС„РёРєР°С†РёРё Р»РёРґРѕРІ** вЂ” 24/7 РІ Telegram/WhatsApp: РѕС†РµРЅРєР° HOT/WARM/COLD, СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ СЃ CRM, РјРіРЅРѕРІРµРЅРЅС‹Рµ СѓРІРµРґРѕРјР»РµРЅРёСЏ РјРµРЅРµРґР¶РµСЂР°Рј. Р’СЂРµРјСЏ РѕС‚РІРµС‚Р°: СЃ 2-3 С‡Р°СЃРѕРІ РґРѕ 2 РјРёРЅСѓС‚. РљРѕРЅРІРµСЂСЃРёСЏ +35%.
+- **Telegram-Р±РѕС‚С‹** вЂ” Р—Р°СЏРІРєРё, Р·Р°РїРёСЃСЊ, РїРѕРґРґРµСЂР¶РєР°, РѕРїР»Р°С‚С‹, РёРЅС‚РµРіСЂР°С†РёСЏ СЃ CRM/Google Sheets, AI-Р°РІС‚РѕРѕС‚РІРµС‚С‹, e-commerce
+- **Р’РµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ** вЂ” Р›РµРЅРґРёРЅРіРё, Р»РёС‡РЅС‹Рµ РєР°Р±РёРЅРµС‚С‹, Р°РґРјРёРЅРєРё, CRM, РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅС‹. Frontend + Backend + DevOps
+- **РџР°СЂСЃРёРЅРі Рё Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ** вЂ” РЎР±РѕСЂ РґР°РЅРЅС‹С…, РјРѕРЅРёС‚РѕСЂРёРЅРі РєРѕРЅРєСѓСЂРµРЅС‚РѕРІ, Р°РІС‚РѕР·Р°РїРѕР»РЅРµРЅРёРµ, OCR
+- **AI-РёРЅС‚РµРіСЂР°С†РёРё** вЂ” OpenAI GPT, Claude, С‡Р°С‚-Р±РѕС‚С‹, РіРµРЅРµСЂР°С†РёСЏ РєРѕРЅС‚РµРЅС‚Р°, Р°РЅР°Р»РёР· РґРѕРєСѓРјРµРЅС‚РѕРІ
 
-## Бэкграунд
+## РљРѕРЅС‚Р°РєС‚С‹
 
-5+ лет fullstack-разработки. Предыдущий опыт:
-- Специалист по контекстной рекламе (50+ РК в Яндекс.Директ)
-- Системный администратор
-- Маркетолог на маркетплейсах
-
-Говорю на языке денег, а не фич. End-to-end доставка: от ТЗ до деплоя и поддержки.
-
-## Контакты
-
-- Telegram: [@codediver_ai](https://t.me/codediver_ai)
-- Email: evgenyholodd@gmail.com
-- FL.ru: [evgenyholodd](https://www.fl.ru/users/evgenyholodd/)
-- LaborX: [Evgeny Bykov](https://laborx.com/freelancers/users/id462793)
-- YouDo: [Евгений Быков](https://youdo.com/u14515331)
+- **Telegram:** [@codediver_ai](https://t.me/codediver_ai)
+- **GitHub:** [Holoddd777](https://github.com/Holoddd777)
+- **Email:** evgenyholodd@gmail.com
 
 ---
 
-*Доступен для фриланс-проектов. Фиксирую ТЗ, сроки и цену до начала. Показываю прогресс каждые 2-3 дня. 30 дней поддержки после запуска включено.*
+# Evgeny Bykov вЂ” Fullstack Developer & AI Automation Engineer
 
----
-
-## English
-
-# Evgeny Bykov — Full-Stack Developer & AI Automation Engineer
-
-> I help businesses stop losing leads and increase revenue through AI automation and web development. 5+ years of experience, 20+ projects, live domains as proof of work.
+I help businesses not lose customers and earn more through AI automation and web development. 5+ years of experience, 20+ projects, live domains as proof.
 
 ## Tech Stack
 
-**Frontend:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI  
-**Backend:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP  
-**Databases:** PostgreSQL, MongoDB, Redis, SQLite  
-**DevOps:** Docker, CI/CD, GitHub Actions, Nginx  
-**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API  
-**Integrations:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24, Yandex.Direct  
+**Frontend:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI
+**Backend:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP
+**Databases:** PostgreSQL, MongoDB, Redis, SQLite
+**DevOps:** Docker, CI/CD, GitHub Actions, Nginx
+**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API
+**Integrations:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24
 
 ## Featured Projects
 
 ### Web Applications
-- [Construction Company Website](https://github.com/Holoddd777/construction-company-website) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
-- [Crypto Exchange Platform](https://github.com/Holoddd777/crypto-exchange-platform) — Node.js, TypeScript, Express, SQLite. Order management with status tracking
+
+- **Construction Company Website** (prorabstroy.ru) вЂ” Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
+- **Educational Platform SKILL UP** (skillup1.ru) вЂ” React, Vite, Tailwind CSS. Licensed courses, 852+ students
+- **Tender Management Platform** (tnder.ru) вЂ” HTML/SCSS/JS/PHP, ML recommendations
 
 ### Telegram Bots
-- [Security Shift Management Bot](https://github.com/Holoddd777/bot-oxpana-shift-management) — aiogram 3.x, SQLAlchemy, role-based access (employee, supervisor, admin). Shift publishing, booking, reports, ratings
 
-### Tools
-- [SEO Analysis Tool](https://github.com/Holoddd777/seo-analysis-tool) — Python, Flask, SQLAlchemy, BeautifulSoup. On-page SEO analysis
+- **Telegram e-commerce bot** вЂ” aiogram 3.x, catalog, orders, BTC/LTC payments, 180 tests, ~15K lines
+- **Telegram parser** вЂ” Telethon, group parsing with encryption and rate limiting, ~12K lines
+- **Telegram inviter** вЂ” aiogram/Telethon, mass inviting with proxy pool and warming, 30 anti-fraud bypasses
+- **Nutritionist bot** вЂ” python-telegram-bot, patient reports to Google Sheets
 
 ## Live Projects (Proof of Work)
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — houses and saunas. Lead forms, Bitrix24 integration, Yandex.Metrika | HTML, Tailwind CSS, Bitrix24 webhook |
-| [skillup1.ru](https://skillup1.ru) | Licensed education academy — courses, payments, reviews, state diplomas. 852+ students online | React, Vite, Tailwind CSS |
-| [tnder.ru](https://tnder.ru) | Landing page for tender service | HTML, CSS, JS |
-| [devsolo.ru](https://devsolo.ru) | Freelance services landing page | HTML, CSS, JS |
-
-## What I Do
-
-- **AI Lead Qualification Agents** — 24/7 in Telegram/WhatsApp: HOT/WARM/COLD scoring, CRM sync, instant manager alerts. Response time: 2-3h to 2min. Conversion +35%.
-- **Telegram Bots** — Lead capture, bookings, support, payments, CRM/Sheets integration, AI auto-replies, e-commerce
-- **Web Applications** — Landing pages, dashboards, admin panels, CRM, e-commerce. Frontend + backend + DB + deploy
-- **API Development** — Google Sheets, AmoCRM, Bitrix24, OpenAI/Claude integrations
-- **SEO & Marketing** — Yandex.Direct campaigns (50+), keyword research, landing page optimization
-
-## Background
-
-5+ years full-stack development. Previous experience as:
-- Performance marketing specialist (50+ Yandex.Direct campaigns)
-- System administrator
-- Marketplace marketer
-
-I speak business, not just features. End-to-end delivery: requirements to deploy to support.
+| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website вЂ” houses and baths. Lead forms, Bitrix24 integration | HTML, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Licensed educational academy вЂ” courses, payments, reviews, 852+ students | React, Vite, Tailwind CSS |
+| [tnder.ru](https://tnder.ru) | Tender management platform with ML recommendations | HTML, SCSS, JS, PHP |
 
 ## Contact
 
-- Telegram: [@codediver_ai](https://t.me/codediver_ai)
-- Email: evgenyholodd@gmail.com
-- FL.ru: [evgenyholodd](https://www.fl.ru/users/evgenyholodd/)
-- LaborX: [Evgeny Bykov](https://laborx.com/freelancers/users/id462793)
-- YouDo: [Evgeny Bykov](https://youdo.com/u14515331)
-
----
-
-*Available for freelance projects. Fixed scope, timeline, and price before starting. Regular progress updates. 30 days post-launch support included.*
+- **Telegram:** [@codediver_ai](https://t.me/codediver_ai)
+- **GitHub:** [Holoddd777](https://github.com/Holoddd777)
+- **Email:** evgenyholodd@gmail.com
