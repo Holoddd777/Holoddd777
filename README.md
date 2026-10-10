@@ -1,64 +1,101 @@
-# РќРѕРІС‹Р№ README РґР»СЏ GitHub РїСЂРѕС„РёР»СЏ Holoddd777/Holoddd777
-# РЈР±СЂР°РЅС‹: devsolo.ru, max-tender.ru
-# РђРєС‚СѓР°Р»СЊРЅС‹Рµ: prorabstroy.ru, skillup1.ru, tnder.ru
+<div align="center">
 
-# Р•РІРіРµРЅРёР№ Р‘С‹РєРѕРІ вЂ” Fullstack-СЂР°Р·СЂР°Р±РѕС‚С‡РёРє Рё AI-Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient:0B192C,06B6D4&height=220&section=header&text=Evgeny%20Bykov&fontSize=52&fontColor=ffffff&desc=Fullstack%20Dev%20%E2%80%A2%20AI%20Automation&descSize=22&descAlignY=62&animation=fadeIn)
 
-РџРѕРјРѕРіР°СЋ Р±РёР·РЅРµСЃСѓ РЅРµ С‚РµСЂСЏС‚СЊ РєР»РёРµРЅС‚РѕРІ Рё Р·Р°СЂР°Р±Р°С‚С‹РІР°С‚СЊ Р±РѕР»СЊС€Рµ С‡РµСЂРµР· AI-Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЋ Рё РІРµР±-СЂР°Р·СЂР°Р±РѕС‚РєСѓ. 5+ Р»РµС‚ РѕРїС‹С‚Р°, 20+ РїСЂРѕРµРєС‚РѕРІ, Р¶РёРІС‹Рµ РґРѕРјРµРЅС‹ РєР°Рє РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІРѕ.
+</div>
 
-## РўРµС…РЅРѕР»РѕРіРёРё
+<div align="center">
 
-**Р¤СЂРѕРЅС‚РµРЅРґ:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI
-**Р‘СЌРєРµРЅРґ:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP
-**Р‘Р°Р·С‹ РґР°РЅРЅС‹С…:** PostgreSQL, MongoDB, Redis, SQLite
-**DevOps:** Docker, CI/CD, GitHub Actions, Nginx
-**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API
-**РРЅС‚РµРіСЂР°С†РёРё:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24, РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚
+[![Telegram](https://img.shields.io/badge/Telegram-@codediver__ai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codediver_ai)
+[![Email](https://img.shields.io/badge/Email-evgenyholodd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evgenyholodd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Holoddd777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Holoddd777)
 
-## РР·Р±СЂР°РЅРЅС‹Рµ РїСЂРѕРµРєС‚С‹
+![](https://komarev.com/ghpvc/?username=Holoddd777&color=06B6D4&style=flat-square&label=profile+views)
 
-### Р’РµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ
-
-- **РЎР°Р№С‚ СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕР№ РєРѕРјРїР°РЅРёРё РЎРљ В«РџСЂРѕСЂР°Р±В»** (prorabstroy.ru) вЂ” Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
-- **РћР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР° SKILL UP** (skillup1.ru) вЂ” React, Vite, Tailwind CSS. Р›РёС†РµРЅР·РёСЂРѕРІР°РЅРЅС‹Рµ РєСѓСЂСЃС‹, 852+ СЃС‚СѓРґРµРЅС‚Р°
-- **РџР»Р°С‚С„РѕСЂРјР° С‚РµРЅРґРµСЂРЅРѕРіРѕ СЃРѕРїСЂРѕРІРѕР¶РґРµРЅРёСЏ** (tnder.ru) вЂ” HTML/SCSS/JS/PHP, ML-СЂРµРєРѕРјРµРЅРґР°С†РёРё
-
-### Telegram-Р±РѕС‚С‹
-
-- **Telegram e-commerce Р±РѕС‚** вЂ” aiogram 3.x, РєР°С‚Р°Р»РѕРі, Р·Р°РєР°Р·С‹, BTC/LTC РѕРїР»Р°С‚Р°, 180 С‚РµСЃС‚РѕРІ, ~15K СЃС‚СЂРѕРє
-- **Telegram-РїР°СЂСЃРµСЂ** вЂ” Telethon, РїР°СЂСЃРёРЅРі РіСЂСѓРїРї СЃ С€РёС„СЂРѕРІР°РЅРёРµРј Рё rate limiting, ~12K СЃС‚СЂРѕРє
-- **Telegram РёРЅРІР°Р№С‚РµСЂ** вЂ” aiogram/Telethon, РјР°СЃСЃРѕРІС‹Р№ РёРЅРІР°Р№С‚РёРЅРі СЃ РїСЂРѕРєСЃРё-РїСѓР»РѕРј Рё РїСЂРѕРіСЂРµРІРѕРј, 30 Р°РЅС‚РёС„СЂРѕРґ-РѕР±С…РѕРґРѕРІ
-- **Р‘РѕС‚-РЅСѓС‚СЂРёС†РёРѕР»РѕРі** вЂ” python-telegram-bot, РѕС‚С‡С‘С‚С‹ РїР°С†РёРµРЅС‚РѕРІ РІ Google Sheets
-
-## Р–РёРІС‹Рµ РїСЂРѕРµРєС‚С‹ (РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІР° СЂР°Р±РѕС‚)
-
-| Р”РѕРјРµРЅ | РћРїРёСЃР°РЅРёРµ | РЎС‚РµРє |
-|-------|----------|------|
-| [prorabstroy.ru](https://prorabstroy.ru) | РЎР°Р№С‚ СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕР№ РєРѕРјРїР°РЅРёРё РЎРљ В«РџСЂРѕСЂР°Р±В» вЂ” РґРѕРјР° Рё Р±Р°РЅРё РїРѕРґ РєР»СЋС‡. Р¤РѕСЂРјС‹ Р·Р°СЏРІРѕРє, РёРЅС‚РµРіСЂР°С†РёСЏ СЃ Р‘РёС‚СЂРёРєСЃ24, РЇРЅРґРµРєСЃ.РњРµС‚СЂРёРєР° | HTML, Tailwind CSS, Bitrix24 webhook |
-| [skillup1.ru](https://skillup1.ru) | Р›РёС†РµРЅР·РёСЂРѕРІР°РЅРЅР°СЏ РѕР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ Р°РєР°РґРµРјРёСЏ вЂ” РєСѓСЂСЃС‹, РѕРїР»Р°С‚Р°, РѕС‚Р·С‹РІС‹, РґРёРїР»РѕРјС‹ РіРѕСЃ. РѕР±СЂР°Р·С†Р°. 852+ СЃС‚СѓРґРµРЅС‚Р° РѕРЅР»Р°Р№РЅ | React, Vite, Tailwind CSS |
-| [tnder.ru](https://tnder.ru) | РџР»Р°С‚С„РѕСЂРјР° С‚РµРЅРґРµСЂРЅРѕРіРѕ СЃРѕРїСЂРѕРІРѕР¶РґРµРЅРёСЏ СЃ ML-СЂРµРєРѕРјРµРЅРґР°С†РёСЏРјРё | HTML, SCSS, JS, PHP |
-
-## Р§С‚Рѕ СЏ РґРµР»Р°СЋ
-
-- **AI-Р°РіРµРЅС‚С‹ РґР»СЏ РєРІР°Р»РёС„РёРєР°С†РёРё Р»РёРґРѕРІ** вЂ” 24/7 РІ Telegram/WhatsApp: РѕС†РµРЅРєР° HOT/WARM/COLD, СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ СЃ CRM, РјРіРЅРѕРІРµРЅРЅС‹Рµ СѓРІРµРґРѕРјР»РµРЅРёСЏ РјРµРЅРµРґР¶РµСЂР°Рј. Р’СЂРµРјСЏ РѕС‚РІРµС‚Р°: СЃ 2-3 С‡Р°СЃРѕРІ РґРѕ 2 РјРёРЅСѓС‚. РљРѕРЅРІРµСЂСЃРёСЏ +35%.
-- **Telegram-Р±РѕС‚С‹** вЂ” Р—Р°СЏРІРєРё, Р·Р°РїРёСЃСЊ, РїРѕРґРґРµСЂР¶РєР°, РѕРїР»Р°С‚С‹, РёРЅС‚РµРіСЂР°С†РёСЏ СЃ CRM/Google Sheets, AI-Р°РІС‚РѕРѕС‚РІРµС‚С‹, e-commerce
-- **Р’РµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ** вЂ” Р›РµРЅРґРёРЅРіРё, Р»РёС‡РЅС‹Рµ РєР°Р±РёРЅРµС‚С‹, Р°РґРјРёРЅРєРё, CRM, РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅС‹. Frontend + Backend + DevOps
-- **РџР°СЂСЃРёРЅРі Рё Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ** вЂ” РЎР±РѕСЂ РґР°РЅРЅС‹С…, РјРѕРЅРёС‚РѕСЂРёРЅРі РєРѕРЅРєСѓСЂРµРЅС‚РѕРІ, Р°РІС‚РѕР·Р°РїРѕР»РЅРµРЅРёРµ, OCR
-- **AI-РёРЅС‚РµРіСЂР°С†РёРё** вЂ” OpenAI GPT, Claude, С‡Р°С‚-Р±РѕС‚С‹, РіРµРЅРµСЂР°С†РёСЏ РєРѕРЅС‚РµРЅС‚Р°, Р°РЅР°Р»РёР· РґРѕРєСѓРјРµРЅС‚РѕРІ
-
-## РљРѕРЅС‚Р°РєС‚С‹
-
-- **Telegram:** [@codediver_ai](https://t.me/codediver_ai)
-- **GitHub:** [Holoddd777](https://github.com/Holoddd777)
-- **Email:** evgenyholodd@gmail.com
+</div>
 
 ---
 
-# Evgeny Bykov вЂ” Fullstack Developer & AI Automation Engineer
+<div align="center">
 
-I help businesses not lose customers and earn more through AI automation and web development. 5+ years of experience, 20+ projects, live domains as proof.
+### 🇷🇺 Русская версия
 
-## Tech Stack
+</div>
+
+Помогаю бизнесу не терять клиентов и зарабатывать больше через **AI-автоматизацию** и **веб-разработку**. 5+ лет опыта, 20+ проектов, живые домены как доказательство.
+
+## 🛠 Технологии
+
+**Фронтенд:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI
+**Бэкенд:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP
+**Базы данных:** PostgreSQL, MongoDB, Redis, SQLite
+**DevOps:** Docker, CI/CD, GitHub Actions, Nginx
+**AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API
+**Интеграции:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24, Яндекс.Директ
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
+
+## 💼 Избранные проекты
+
+### Веб-приложения
+
+- **Сайт строительной компании СК «Прораб»** (prorabstroy.ru) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
+- **Образовательная платформа SKILL UP** (skillup1.ru) — React, Vite, Tailwind CSS. Лицензированные курсы, 852+ студента
+- **Платформа тендрного сопровождения** (tnder.ru) — HTML/SCSS/JS/PHP, ML-рекомендации
+
+### Telegram-боты
+
+- **Telegram e-commerce бот** — aiogram 3.x, каталог, заказы, BTC/LTC оплата, 180 тестов, ~15K строк
+- **Telegram-парсер** — Telethon, парсинг групп с шифрованием и rate limiting, ~12K строк
+- **Telegram инвайтер** — aiogram/Telethon, массовый инвайтинг с прокси-пулом и прогревом, 30 антифрод-обходов
+- **Бот-нутрициолог** — python-telegram-bot, отчёты пациентов в Google Sheets
+
+## 🌐 Живые проекты (доказательства работ)
+
+| Домен | Описание | Стек |
+|-------|----------|------|
+| [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани под ключ. Формы заявок, интеграция с Битрикс24, Яндекс.Метрика | Next.js 16, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Лицензированная образовательная академия — курсы, оплата, отзывы, дипломы гос. образца. 852+ студента онлайн | React, Vite, Tailwind CSS |
+| [tnder.ru](https://tnder.ru) | Платформа тендрного сопровождения с ML-рекомендациями | HTML, SCSS, JS, PHP |
+
+## ⚡ Что я делаю
+
+- **AI-агенты для квалификации лидов** — 24/7 в Telegram/WhatsApp: оценка HOT/WARM/COLD, синхронизация с CRM, мгновенные уведомления менеджерам. Время ответа: с 2-3 часов до 2 минут. Конверсия +35%.
+- **Telegram-боты** — Заявки, запись, поддержка, оплаты, интеграция с CRM/Google Sheets, AI-автоответы, e-commerce
+- **Веб-приложения** — Лендинги, личные кабинеты, админки, CRM, интернет-магазины. Frontend + Backend + DevOps
+- **Парсинг и автоматизация** — Сбор данных, мониторинг конкурентов, автозаполнение, OCR
+- **AI-интеграции** — OpenAI GPT, Claude, чат-боты, генерация контента, анализ документов
+
+---
+
+<div align="center">
+
+### 🇬🇧 English Version
+
+</div>
+
+I help businesses not lose customers and earn more through **AI automation** and **web development**. 5+ years of experience, 20+ projects, live domains as proof.
+
+## 🛠 Tech Stack
 
 **Frontend:** React, Next.js 16, TypeScript, Tailwind CSS, Radix UI
 **Backend:** Node.js, Express, NestJS, Python (FastAPI, Django, Flask), PHP
@@ -67,31 +104,58 @@ I help businesses not lose customers and earn more through AI automation and web
 **AI/ML:** OpenAI API, Claude API, LangChain, NLP, Google Calendar API
 **Integrations:** Telegram Bot API, WhatsApp Business API, Google Sheets API, AmoCRM, Bitrix24
 
-## Featured Projects
+## 💼 Featured Projects
 
 ### Web Applications
 
-- **Construction Company Website** (prorabstroy.ru) вЂ” Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
-- **Educational Platform SKILL UP** (skillup1.ru) вЂ” React, Vite, Tailwind CSS. Licensed courses, 852+ students
-- **Tender Management Platform** (tnder.ru) вЂ” HTML/SCSS/JS/PHP, ML recommendations
+- **Construction Company Website** (prorabstroy.ru) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
+- **Educational Platform SKILL UP** (skillup1.ru) — React, Vite, Tailwind CSS. Licensed courses, 852+ students
+- **Tender Management Platform** (tnder.ru) — HTML/SCSS/JS/PHP, ML recommendations
 
 ### Telegram Bots
 
-- **Telegram e-commerce bot** вЂ” aiogram 3.x, catalog, orders, BTC/LTC payments, 180 tests, ~15K lines
-- **Telegram parser** вЂ” Telethon, group parsing with encryption and rate limiting, ~12K lines
-- **Telegram inviter** вЂ” aiogram/Telethon, mass inviting with proxy pool and warming, 30 anti-fraud bypasses
-- **Nutritionist bot** вЂ” python-telegram-bot, patient reports to Google Sheets
+- **Telegram e-commerce bot** — aiogram 3.x, catalog, orders, BTC/LTC payments, 180 tests, ~15K lines
+- **Telegram parser** — Telethon, group parsing with encryption and rate limiting, ~12K lines
+- **Telegram inviter** — aiogram/Telethon, mass inviting with proxy pool and warming, 30 anti-fraud bypasses
+- **Nutritionist bot** — python-telegram-bot, patient reports to Google Sheets
 
-## Live Projects (Proof of Work)
+## 🌐 Live Projects (Proof of Work)
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website вЂ” houses and baths. Lead forms, Bitrix24 integration | HTML, Tailwind CSS, Bitrix24 webhook |
-| [skillup1.ru](https://skillup1.ru) | Licensed educational academy вЂ” courses, payments, reviews, 852+ students | React, Vite, Tailwind CSS |
+| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — houses and baths. Lead forms, Bitrix24 integration | Next.js 16, Tailwind CSS, Bitrix24 webhook |
+| [skillup1.ru](https://skillup1.ru) | Licensed educational academy — courses, payments, reviews, 852+ students | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Tender management platform with ML recommendations | HTML, SCSS, JS, PHP |
 
-## Contact
+## ⚡ What I Do
 
-- **Telegram:** [@codediver_ai](https://t.me/codediver_ai)
-- **GitHub:** [Holoddd777](https://github.com/Holoddd777)
-- **Email:** evgenyholodd@gmail.com
+- **AI agents for lead qualification** — 24/7 in Telegram/WhatsApp: HOT/WARM/COLD scoring, CRM sync, instant manager notifications. Response time: from 2-3 hours to 2 minutes. Conversion +35%.
+- **Telegram bots** — Leads, booking, support, payments, CRM/Google Sheets integration, AI auto-replies, e-commerce
+- **Web applications** — Landing pages, dashboards, admin panels, CRMs, e-commerce. Frontend + Backend + DevOps
+- **Parsing & automation** — Data collection, competitor monitoring, auto-filling, OCR
+- **AI integrations** — OpenAI GPT, Claude, chatbots, content generation, document analysis
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Holoddd777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holoddd777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://streak-stats.demolab.com?user=Holoddd777&locale=ru&hide_border=true&background=0D1117&ring=06B6D4&fire=E34F26&currStreakLabel=06B6D4"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Holoddd777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*💬 Открыт для заказов — пишите в [Telegram](https://t.me/codediver_ai), отвечаю быстро 🚀*
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient:06B6D4,0B192C&height=110&section=footer)
+
+</div>
