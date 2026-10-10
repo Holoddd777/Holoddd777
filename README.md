@@ -61,6 +61,7 @@
 - **Сайт строительной компании СК «Прораб»** (prorabstroy.ru) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
 - **Образовательная платформа SKILL UP** (skillup1.ru) — React, Vite, Tailwind CSS. Лицензированные курсы, 852+ студента
 - **Платформа тендрного сопровождения** (tnder.ru) — HTML/SCSS/JS/PHP, ML-рекомендации
+- **My-Openclaw — SaaS AI-агенты** (my-openclaw.ru) — изолированные агенты 24/7, Telegram/WhatsApp, cron, браузер, отчёты, 7 LLM через прокси
 
 ### Telegram-боты
 
@@ -76,6 +77,8 @@
 | [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани под ключ. Формы заявок, интеграция с Битрикс24, Яндекс.Метрика | Next.js 16, Tailwind CSS, Bitrix24 webhook |
 | [skillup1.ru](https://skillup1.ru) | Лицензированная образовательная академия — курсы, оплата, отзывы, дипломы гос. образца. 852+ студента онлайн | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Платформа тендрного сопровождения с ML-рекомендациями | HTML, SCSS, JS, PHP |
+| [my-openclaw.ru](https://my-openclaw.ru) | **SaaS-платформа персональных AI-агентов**: изолированные агенты 24/7 в Telegram/WhatsApp/веб-чате, cron-задачи, браузер, отчёты в Word, 7 LLM через единый прокси, self-healing | Python, Node.js, Docker, OpenRouter/Anthropic/OpenAI |
+| [karkastomsk.ru](https://karkastomsk.ru) | Сайт СК «Прораб» в Томске: дома и бани из бруса. 12+ лет, 270+ объектов, гарантия 5 лет, 20 видеоотзывов, SEO-генерация страниц проектов | Next.js 16, Express, PostgreSQL, AmoCRM |
 
 ## ⚡ Что я делаю
 
@@ -111,6 +114,7 @@ I help businesses not lose customers and earn more through **AI automation** and
 - **Construction Company Website** (prorabstroy.ru) — Next.js 16, React 19, TypeScript, Tailwind CSS 4, Radix UI
 - **Educational Platform SKILL UP** (skillup1.ru) — React, Vite, Tailwind CSS. Licensed courses, 852+ students
 - **Tender Management Platform** (tnder.ru) — HTML/SCSS/JS/PHP, ML recommendations
+- **My-Openclaw — SaaS AI Agents** (my-openclaw.ru) — isolated 24/7 agents, Telegram/WhatsApp, cron, browser, reports, 7 LLMs via proxy
 
 ### Telegram Bots
 
@@ -126,6 +130,8 @@ I help businesses not lose customers and earn more through **AI automation** and
 | [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — houses and baths. Lead forms, Bitrix24 integration | Next.js 16, Tailwind CSS, Bitrix24 webhook |
 | [skillup1.ru](https://skillup1.ru) | Licensed educational academy — courses, payments, reviews, 852+ students | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Tender management platform with ML recommendations | HTML, SCSS, JS, PHP |
+| [my-openclaw.ru](https://my-openclaw.ru) | **SaaS platform for personal AI agents**: isolated 24/7 agents in Telegram/WhatsApp/web-chat, cron tasks, browser, Word reports, 7 LLMs via unified proxy, self-healing | Python, Node.js, Docker, OpenRouter/Anthropic/OpenAI |
+| [karkastomsk.ru](https://karkastomsk.ru) | Construction company website in Tomsk: timber houses and baths. 12+ years, 270+ builds, 5-year warranty, 20 video reviews, SEO page generation | Next.js 16, Express, PostgreSQL, AmoCRM |
 
 ## ⚡ What I Do
 
