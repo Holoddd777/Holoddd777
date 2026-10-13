@@ -74,11 +74,45 @@
 
 | Домен | Описание | Стек |
 |-------|----------|------|
-| [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани под ключ. Формы заявок, интеграция с Битрикс24, Яндекс.Метрика | Next.js 16, Tailwind CSS, Bitrix24 webhook |
+| [prorabstroy.ru](https://prorabstroy.ru) | Сайт строительной компании СК «Прораб» — дома и бани из бруса под ключ в Томске. 12+ лет, 270+ объектов, гарантия 5 лет, каталог 35 проектов, SEO-генерация страниц, формы заявок, Яндекс.Метрика | Next.js 16, Node.js/Express, PostgreSQL, AmoCRM, Bitrix24 |
 | [skillup1.ru](https://skillup1.ru) | Лицензированная образовательная академия — курсы, оплата, отзывы, дипломы гос. образца. 852+ студента онлайн | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Платформа тендрного сопровождения с ML-рекомендациями | HTML, SCSS, JS, PHP |
 | [my-openclaw.ru](https://my-openclaw.ru) | **SaaS-платформа персональных AI-агентов**: изолированные агенты 24/7 в Telegram/WhatsApp/веб-чате, cron-задачи, браузер, отчёты в Word, 7 LLM через единый прокси, self-healing | Python, Node.js, Docker, OpenRouter/Anthropic/OpenAI |
-| [karkastomsk.ru](https://karkastomsk.ru) | Сайт СК «Прораб» в Томске: дома и бани из бруса. 12+ лет, 270+ объектов, гарантия 5 лет, 20 видеоотзывов, SEO-генерация страниц проектов | Next.js 16, Express, PostgreSQL, AmoCRM |
+
+## 🏆 Кейс: AI-квалификатор лидов на сайте
+
+> **Готовое решение «под ключ» для любого бизнеса:** виджет чата на вашем сайте → AI-агент (OpenClaw) → продажи по скрипту → CRM. Устанавливается на лендинг, интернет-магазин, портал услуг за 1 день.
+
+### Как это устроено
+
+```
+Посетитель сайта → 💬 Виджет чата → 🤖 AI-агент (OpenClaw) → 📋 Скрипт продаж → 📈 AmoCRM → 👨‍💼 Менеджер
+                                        ↓
+                              📨 Мессенджер MAX (уведомления 24/7)
+```
+
+- **💬 Виджет чата на сайте** — посетитель пишет вопрос прямо со страницы, ничего не устанавливая
+- **🤖 AI-агент на OpenClaw** — работает 24/7: отвечает мгновенно, знает прайс, услуги и FAQ вашего бизнеса, уточняет потребности
+- **📋 Скрипт продаж** — агент ведёт диалог по вашему скрипту: выявляет бюджет, сроки, возражения → квалифицирует HOT/WARM/COLD
+- **📈 AmoCRM** — квалифицированный лид автоматически создаётся в CRM с полной историей диалога и оценкой температуры
+- **📨 Мессенджер MAX** — менеджер получает мгновенное уведомление о HOT-лиде в MAX, не сидя в CRM
+
+### Результат на проекте prorabstroy.ru
+
+| Метрика | До | После |
+|---------|-----|-------|
+| Время первого ответа | 2-3 часа | **2 минуты, 24/7** |
+| Заявка ночью/выходные | терялась | **обрабатывается автоматически** |
+| Статус лида в CRM | вносит менеджер вручную | **создаётся и квалифицируется агентом** |
+
+### Подключу за 1 день на любой сайт
+
+1. Ставим виджет чата на ваш сайт (любой CMS/фреймворк)
+2. Настраиваем AI-агента под ваш бизнес: база знаний, прайс, тон ответов
+3. Прописываем скрипт продаж под ваши услуги
+4. Проводим интеграцию с AmoCRM (или вашей CRM) + уведомления в MAX/Telegram
+
+*Хотите так же? Пишите в [Telegram](https://t.me/codediver_ai) — покажу демо на живом сайте.*
 
 ## ⚡ Что я делаю
 
@@ -127,11 +161,45 @@ I help businesses not lose customers and earn more through **AI automation** and
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — houses and baths. Lead forms, Bitrix24 integration | Next.js 16, Tailwind CSS, Bitrix24 webhook |
+| [prorabstroy.ru](https://prorabstroy.ru) | Construction company website — turnkey timber houses and baths in Tomsk. 12+ years, 270+ builds, 5-year warranty, 35-project catalog, SEO page generation, lead forms, Yandex.Metrica | Next.js 16, Node.js/Express, PostgreSQL, AmoCRM, Bitrix24 |
 | [skillup1.ru](https://skillup1.ru) | Licensed educational academy — courses, payments, reviews, 852+ students | React, Vite, Tailwind CSS |
 | [tnder.ru](https://tnder.ru) | Tender management platform with ML recommendations | HTML, SCSS, JS, PHP |
 | [my-openclaw.ru](https://my-openclaw.ru) | **SaaS platform for personal AI agents**: isolated 24/7 agents in Telegram/WhatsApp/web-chat, cron tasks, browser, Word reports, 7 LLMs via unified proxy, self-healing | Python, Node.js, Docker, OpenRouter/Anthropic/OpenAI |
-| [karkastomsk.ru](https://karkastomsk.ru) | Construction company website in Tomsk: timber houses and baths. 12+ years, 270+ builds, 5-year warranty, 20 video reviews, SEO page generation | Next.js 16, Express, PostgreSQL, AmoCRM |
+
+## 🏆 Case Study: AI Lead Qualifier for any website
+
+> **Turnkey solution:** website chat widget → AI agent (OpenClaw) → sales-script dialog → CRM. Installable on any landing page, e-commerce store, or service portal in 1 day.
+
+### How it works
+
+```
+Site visitor → 💬 Chat widget → 🤖 AI agent (OpenClaw) → 📋 Sales script → 📈 AmoCRM → 👨‍💼 Manager
+                                        ↓
+                              📨 MAX messenger (24/7 notifications)
+```
+
+- **💬 Website chat widget** — visitors ask questions right on the page, nothing to install
+- **🤖 AI agent on OpenClaw** — works 24/7: instant replies, knows your pricing, services and FAQ, asks follow-ups
+- **📋 Sales script** — the agent follows your custom script: uncovers budget, timeline, objections → qualifies HOT/WARM/COLD
+- **📈 AmoCRM** — qualified lead is auto-created in CRM with full conversation history and temperature score
+- **📨 MAX messenger** — manager gets instant HOT-lead notifications in MAX without living in the CRM
+
+### Results on prorabstroy.ru
+
+| Metric | Before | After |
+|--------|--------|-------|
+| First response time | 2-3 hours | **2 minutes, 24/7** |
+| Night/weekend leads | lost | **handled automatically** |
+| CRM lead status | entered manually | **created & qualified by the agent** |
+
+### Deployed in 1 day on any website
+
+1. Install chat widget on your website (any CMS/framework)
+2. Train the AI agent for your business: knowledge base, pricing, tone of voice
+3. Customize the sales script for your services
+4. Integrate with AmoCRM (or your CRM) + MAX/Telegram notifications
+
+*Want the same? Ping me on [Telegram](https://t.me/codediver_ai) — I'll show a live demo.*
 
 ## ⚡ What I Do
 
