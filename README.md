@@ -114,13 +114,33 @@
 
 *Хотите так же? Пишите в [Telegram](https://t.me/codediver_ai) — покажу демо на живом сайте.*
 
-## ⚡ Что я делаю
+## 🚀 Автоматизация Бизнеса (Telegram + MAX + AI)
 
-- **AI-агенты для квалификации лидов** — 24/7 в Telegram/WhatsApp: оценка HOT/WARM/COLD, синхронизация с CRM, мгновенные уведомления менеджерам. Время ответа: с 2-3 часов до 2 минут. Конверсия +35%.
-- **Telegram-боты** — Заявки, запись, поддержка, оплаты, интеграция с CRM/Google Sheets, AI-автоответы, e-commerce
-- **Веб-приложения** — Лендинги, личные кабинеты, админки, CRM, интернет-магазины. Frontend + Backend + DevOps
-- **Парсинг и автоматизация** — Сбор данных, мониторинг конкурентов, автозаполнение, OCR
-- **AI-интеграции** — OpenAI GPT, Claude, чат-боты, генерация контента, анализ документов
+> **Разработка ботов, AI-помощников, парсеров и сайтов под ваши задачи.**
+
+<div align="center">
+
+| 🕒 Экономия времени | 📈 Больше заявок и клиентов | ⚙️ Автоматизация процессов | 💡 Индивидуальные решения |
+|---|---|---|---|
+
+</div>
+
+### 🛠 Перечень услуг
+
+| 🤖 **Telegram и MAX-боты** | 🧠 **AI-боты и помощники** | 📊 **Парсеры и сбор данных** |
+|---|---|---|
+| • Приём заявок и онлайн-запись<br>• Ответы на вопросы 24/7<br>• Уведомления и рассылки | • Умные консультанты по базе знаний<br>• Работа по скриптам продаж<br>• Квалификация клиентов (HOT/COLD)<br>• Автоматизация воронки продаж | • Сбор данных с любых сайтов<br>• Мониторинг цен конкурентов<br>• Автоматический поиск тендеров<br>• Глубокая аналитика и отчёты |
+
+| 💻 **Сайты и лендинги** | 🔌 **Интеграция с CRM** | 🧩 **Индивидуальные решения** |
+|---|---|---|
+| • Одностраничные сайты и визитки<br>• Продающие лендинги<br>• Сложные формы захвата лидов<br>• Полная адаптация под мобильные | • Bitrix24, amoCRM, Torro CRM<br>• Автоматическое создание сделок<br>• Уведомления менеджерам в мессенджеры<br>• Связка с внешними API и сервисами | • Разработка под уникальные задачи<br>• Масштабирование текущих систем<br>• Техническая поддержка и доработка<br>• Консультации на всех этапах |
+
+<div align="center">
+
+| 🚀 Разработка от **5 000 ₽** | ⏱ Сроки от **3 дней** | 🇷🇺 Работаю по всей **России** | ✅ **Гарантия** и поддержка |
+|---|---|---|---|
+
+</div>
 
 ---
 
@@ -201,13 +221,33 @@ Site visitor → 💬 Chat widget → 🤖 AI agent (OpenClaw) → 📋 Sales sc
 
 *Want the same? Ping me on [Telegram](https://t.me/codediver_ai) — I'll show a live demo.*
 
-## ⚡ What I Do
+## 🚀 Business Automation (Telegram + MAX + AI)
 
-- **AI agents for lead qualification** — 24/7 in Telegram/WhatsApp: HOT/WARM/COLD scoring, CRM sync, instant manager notifications. Response time: from 2-3 hours to 2 minutes. Conversion +35%.
-- **Telegram bots** — Leads, booking, support, payments, CRM/Google Sheets integration, AI auto-replies, e-commerce
-- **Web applications** — Landing pages, dashboards, admin panels, CRMs, e-commerce. Frontend + Backend + DevOps
-- **Parsing & automation** — Data collection, competitor monitoring, auto-filling, OCR
-- **AI integrations** — OpenAI GPT, Claude, chatbots, content generation, document analysis
+> **Development of bots, AI assistants, parsers, and websites tailored to your needs.**
+
+<div align="center">
+
+| 🕒 Time Saving | 📈 More Leads & Clients | ⚙️ Process Automation | 💡 Custom Solutions |
+|---|---|---|---|
+
+</div>
+
+### 🛠 Services
+
+| 🤖 **Telegram & MAX Bots** | 🧠 **AI Bots & Assistants** | 📊 **Parsers & Data Collection** |
+|---|---|---|
+| • Lead intake & online booking<br>• 24/7 automated support<br>• Notifications & newsletters | • Smart knowledge-base consultants<br>• Sales script execution<br>• Lead qualification (HOT/COLD)<br>• Sales funnel automation | • Web scraping from any source<br>• Competitor price monitoring<br>• Automated tender search<br>• In-depth analytics & reporting |
+
+| 💻 **Websites & Landings** | 🔌 **CRM Integrations** | 🧩 **Custom Solutions** |
+|---|---|---|
+| • Landing pages & promo sites<br>• High-conversion sales pages<br>• Complex lead capture forms<br>• Full mobile responsiveness | • Bitrix24, amoCRM, Torro CRM<br>• Automated deal creation<br>• Instant manager notifications<br>• Custom API & service linking | • Development for unique tasks<br>• Scaling existing systems<br>• Technical support & maintenance<br>• Full-cycle consultations |
+
+<div align="center">
+
+| 🚀 Development from **$100** | ⏱ Delivery from **3 days** | 🌍 **Worldwide** collaboration | ✅ **Guarantee** & Support |
+|---|---|---|---|
+
+</div>
 
 ---
 
